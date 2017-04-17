@@ -1,2 +1,3 @@
 <?php
 phpinfo();
+// added a line here
